@@ -1,7 +1,7 @@
 package larisa.zakharova;
 
 public class Main {
-    private static String msg = "Hello world and qa.guru!!!!!!!";
+    private static String message = "Hello world and qa.guru!!!!!!!";
 
     public static void main(String[] args) {
 
@@ -9,6 +9,6 @@ public class Main {
     }
 
     private static String getMessage() {
-        return msg;
+        return message;
     }
 }
