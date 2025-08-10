@@ -1,8 +1,9 @@
 package com.zakharoval78;
 
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello and welcome!");
+    private static String msg = "Hello qa.guru!";
 
-        }
-    }
+      public static void main(String... args) {
+    System.out.println(msg);
+  }
+}
